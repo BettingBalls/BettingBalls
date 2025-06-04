@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a stranger who's currently learning about programming language.
+Just a stranger who's passionate to learn about programming language.
 
 
 # 💻 Tech Stack:
